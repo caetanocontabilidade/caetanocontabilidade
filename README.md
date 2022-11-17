@@ -2,7 +2,9 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=joaomotacaetanocontabildade&show_icons=true&theme=transparent" width="400">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomotacaetanocontabildade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ### ⚡
