@@ -1,9 +1,5 @@
 # caetanocontabilidade
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=caetanocontabildade&show_icons=true&theme=transparent" width="400">
- 
-</div>
 
 ### ⚡
 <div>
